@@ -10,7 +10,7 @@
 > 1. [调用函数 —— MLPClassifier](/program/program.html#1.-调用函数-——-MLPClassifier)
 > 2. [调用示例](/program/program.html#2.-调用示例)
 >>2.1 [探究网络使用不同正则化率在不同数据上的表现](/program/program.html#2.1-探究网络使用不同正则化率在不同数据上的表现)  
->>2.2 [探究多层神经网络的特征变换过程（Relu)](#2.2-探究多层神经网络的特征变换过程（Relu）)
+>>2.2 [探究多层神经网络的特征变换过程（Relu)](/program/program.html#2.2-探究多层神经网络的特征变换过程（Relu）)
 
 
 ## 部分学生作品
