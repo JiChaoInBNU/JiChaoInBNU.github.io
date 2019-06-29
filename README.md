@@ -1,4 +1,5 @@
 # 北京师范大学本科生公选课 **深度学习导论** 课程网站
+**授课教师**：北京师范大学地理科学学部 [唐宏](http://geot.bnu.edu.cn/Public/htm/news/5/182.html) 教授
 ## [算法原理](/Algorithmic_Principle/Algorithmic_Principle.md)
 ## [程序调用示例](/program/program.html)
 ## 部分学生作品
